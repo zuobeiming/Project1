@@ -6,6 +6,6 @@ package com.atguigu.bean.custurm;
  */
 public class Person {
     public void eat() {
-        System.out.println("吃饭");
+        System.out.println("吃饭啊");
     }
 }
